@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Hanad1907/Hanads.git/static/css/main.82953641.css",
+    "main.js": "/Hanad1907/Hanads.git/static/js/main.46ad898d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Hanad1907/Hanads.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Australia.png": "/Hanad1907/Hanads.git/static/media/Australia.90b7dc465326c844c199.png",
+    "static/media/Village.png": "/Hanad1907/Hanads.git/static/media/Village.4689a13374033704629a.png",
+    "static/media/CV-kopi.pdf": "/Hanad1907/Hanads.git/static/media/CV-kopi.43fd43ac5aab4ce32ab8.pdf",
+    "static/media/Screenshot.jpg": "/Hanad1907/Hanads.git/static/media/Screenshot.fcb5687e4575c789e711.jpg",
+    "index.html": "/Hanad1907/Hanads.git/index.html",
+    "main.82953641.css.map": "/Hanad1907/Hanads.git/static/css/main.82953641.css.map",
+    "main.46ad898d.js.map": "/Hanad1907/Hanads.git/static/js/main.46ad898d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Hanad1907/Hanads.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82953641.css",
+    "static/js/main.46ad898d.js"
+  ]
+}
